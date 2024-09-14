@@ -1,0 +1,14 @@
+AoA3:
+ - Level Up
+ - Level 100
+ - Loot Ding
+ - Bubble Pop
+ - Charger Sounds
+ - Some Clown Sounds
+ - Pixon Sounds
+ - Bloodlust Collect
+ - Baron Bomb Priming
+
+DivineRPG:
+ - Rainbour Living (Reduced & Shortened)
+ - Rainbour Hurt
