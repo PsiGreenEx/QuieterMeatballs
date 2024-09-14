@@ -9,7 +9,7 @@ AoA3:
  - Bloodlust Collect
  - Baron Bomb Priming
  - Tribute Fail (Replaced with custom sound)
- - Tribte Success
+ - Tribute Success (Will likely replace in the future)
 
 DivineRPG:
  - Rainbour Living (Reduced & Shortened)
