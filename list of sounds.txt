@@ -8,6 +8,8 @@ AoA3:
  - Pixon Sounds
  - Bloodlust Collect
  - Baron Bomb Priming
+ - Tribute Fail (Replaced with custom sound)
+ - Tribte Success
 
 DivineRPG:
  - Rainbour Living (Reduced & Shortened)
