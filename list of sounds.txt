@@ -12,3 +12,7 @@ AoA3:
 DivineRPG:
  - Rainbour Living (Reduced & Shortened)
  - Rainbour Hurt
+
+Tinker's:
+ - Charge
+ - Discharge
