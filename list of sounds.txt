@@ -12,8 +12,12 @@ AoA3:
  - Tribute Success (Will likely replace in the future)
 
 DivineRPG:
- - Rainbour Living (Reduced & Shortened)
+ - Rainbour Idle (Reduced & Shortened)
  - Rainbour Hurt
+ - Glacon Idle
+ - Glacon Hurt
+
+Note: A LOT of DivineRPG mob sounds are so loud they are clipping. Unfortunately, I can't really go and adjust all of their volumes in one go without taking the time to figure out the context for them, because volume could potentially be applied after the fact in game. That said, the quality loss of having all these clipping makes it so that even turned down, these sounds don't sound very pleasant. I'm tempted to turn this less into a volume reduction pack, and moreso a pack where I just make a bunch of custom sounds for these mods to give it more cohesion (like I did with the Tribute Fail sound).
 
 Tinker's:
  - Charge
